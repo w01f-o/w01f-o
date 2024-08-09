@@ -17,7 +17,7 @@
 
 <h1 align="center">
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>react
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-discord-blue?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/748623993208045638)
+- :mailbox:How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-discord-blue?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/748623993208045638)
 
 ---
 
@@ -46,7 +46,3 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 ---
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=w01f-o&theme=dark)](https://git.io/streak-stats)
