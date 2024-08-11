@@ -2,15 +2,18 @@
   <img src="https://i.imgur.com/py5ctdb.gif" width="200" alt="logo"/>
 </div>
 
-<p align="center">
-  [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/748623993208045638)
-  [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/ваш_никнейм)
-</p>
+<div id="badges" align="center">
+  <a href="https://discord.com/users/748623993208045638">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=w01f-o&style=flat&color=blue)
-</p>
-
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=w01f-o&style=for-the-badge&color=blue" alt=""/>
+</div>
 
 <h1 align="center">
   Hey there
