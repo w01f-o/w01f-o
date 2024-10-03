@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&width=435&lines=Hi+everyone!;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
-
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
