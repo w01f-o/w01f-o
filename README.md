@@ -23,7 +23,7 @@
   </a>
 </div>
 
-### Contact
+### :envelope: Contact
 
 <div> 
    <a href="https://discord.com/users/748623993208045638" target="_blank">
