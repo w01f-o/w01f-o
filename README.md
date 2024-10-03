@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&width=435&lines=Hi+everyone!;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-### Technologies and tools:
+### :hammer_and_wrench: Technologies and tools:
 
 <div style="display: inline_block"><br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -14,7 +14,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div><br>
 
-### GitHub Stats
+### :man_technologist: GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/w01f-o">
