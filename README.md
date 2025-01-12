@@ -31,7 +31,7 @@
    <a href="https://discord.com/users/748623993208045638" target="_blank">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://tg.me/" target="_blank">
+   <a href="https://tg.me/w01fo" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
