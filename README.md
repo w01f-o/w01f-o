@@ -37,7 +37,4 @@
    <a href="https://tg.me/w01fo" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://w01f-cv.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Resume Badge"/>
-  </a>
 </div>
